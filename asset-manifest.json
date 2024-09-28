@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/payfront/static/css/main.e298bdf7.css",
+    "main.js": "/payfront/static/js/main.52d22480.js",
+    "static/js/453.b79cfcd6.chunk.js": "/payfront/static/js/453.b79cfcd6.chunk.js",
+    "static/media/paybump-banner.svg": "/payfront/static/media/paybump-banner.7701e07c030d208bf6a9f4582b7ca09d.svg",
+    "index.html": "/payfront/index.html",
+    "main.e298bdf7.css.map": "/payfront/static/css/main.e298bdf7.css.map",
+    "main.52d22480.js.map": "/payfront/static/js/main.52d22480.js.map",
+    "453.b79cfcd6.chunk.js.map": "/payfront/static/js/453.b79cfcd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e298bdf7.css",
+    "static/js/main.52d22480.js"
+  ]
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <!-- Background -->
+  <rect width="800" height="200" fill="#f0f0f0"/>
+  
+  <!-- Stylized chart -->
+  <polyline points="50,150 150,100 250,120 350,80 450,60 550,40" 
+            stroke="#4CAF50" stroke-width="4" fill="none"/>
+  
+  <!-- Dollar sign -->
+  <text x="600" y="120" font-family="Arial, sans-serif" font-size="80" fill="#4CAF50">$</text>
+  
+  <!-- Website name -->
+  <text x="40" y="50" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#333">
+    paybump.fyi
+  </text>
+  
+  <!-- Tagline -->
+  <text x="40" y="180" font-family="Arial, sans-serif" font-size="24" fill="#666">
+    Track Your Salary Raises. Compare. Grow.
+  </text>
+</svg>
