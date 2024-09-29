@@ -1,7 +1,7 @@
 {
   "name": "payfront",
   "version": "0.1.0",
-  "homepage": "https://payfront.github.io/payfront",
+  "homepage": "http://paybump.fyi",
   "private": true,
   "dependencies": {
     "@fillout/react": "^1.1.2",
